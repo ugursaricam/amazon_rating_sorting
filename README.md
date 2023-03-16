@@ -12,7 +12,7 @@ The product with the most comments in the electronics category has user ratings 
 
 #### Total Features: 12 - Total Row: 4915
 
-#### CSV File Size: 71.9 MB
+#### CSV File Size: 1.81 MB
 
 * **reviewerID:** User ID
 * **asin:** Product ID
